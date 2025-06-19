@@ -37,7 +37,7 @@ Saya percaya bahwa teknologi harus membawa manfaat langsung bagi masyarakat. Ole
 Saya terbuka untuk diskusi, kolaborasi, mentoring, ataupun proyek teknologi lainnya!  
 📍 Lokasi: Pekalongan, Indonesia  
 📧 Email: **rosilman000@gmail.com**  
-🔗 LinkedIn: [Farros Ilman](https://www.linkedin.com/in/farrosilman/)
+🔗 LinkedIn: [Farros Ilman](https://www.linkedin.com/in/farrosilman/)  
 📸 Instagram: [@farros.go.id](https://www.instagram.com/farros.go.id/)
 
 ---
