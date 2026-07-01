@@ -1,50 +1,55 @@
-# Hi there, I'm Farros Ilman 👋
+<h1 align="center">Hi there, I'm Farros Ilman! 👋</h1>
 
-**Web & Android Developer | Cybersecurity Enthusiast | Tech for Social Impact**
+<h3 align="center">Web & Android Developer | Cybersecurity Enthusiast | Tech for Social Impact</h3>
 
-Saya adalah lulusan **S1 Informatika dari Universitas Muhammadiyah Pekajangan Pekalongan (UMPP)**. Saya memiliki *passion* dalam membangun aplikasi yang aman, efisien, dan user-friendly. Saya percaya bahwa teknologi tidak hanya harus inovatif, tetapi juga relevan dan memberikan dampak nyata bagi masyarakat.
+<p align="center">
+  <i>Lulusan <b>S1 Informatika</b>. Saya memiliki passion membangun aplikasi yang aman, efisien, dan user-centric. Saya percaya teknologi harus inovatif, relevan, dan memberikan dampak nyata bagi masyarakat.</i>
+</p>
 
----
-
-## 🚀 What I'm Up To
-
-- 🔭 **Currently focusing on:** Modern Android Development (Kotlin) & Secure Web Development.
-- 🌱 **Actively exploring:** Penetration Testing, Artificial Intelligence, dan Data Analysis.
-- 🎯 **My philosophy:** Menggabungkan *Human-Computer Interaction (HCI)* dengan *Secure Coding* untuk menciptakan solusi digital yang optimal.
-
----
-
-## 🏆 Highlight Project
-
-### **SiTaSiBeSar (Sistem Informasi Tata Laksana Stunting)**
-Sebuah platform berbasis web untuk mendukung manajemen data kesehatan terkait stunting secara digital. 
-* **Fokus Riset:** Dikembangkan menggunakan pendekatan **Human Computer Interaction (HCI)** dan dievaluasi dengan **Technology Acceptance Model (TAM)** untuk mengukur dan memastikan tingkat penerimaan pengguna.
+<p align="center">
+  <a href="mailto:rosilman000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/farrosilman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/who.fars/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 👨‍💻 About Me
 
-* **Languages & Frameworks:** PHP, Laravel, JavaScript, HTML/CSS, Kotlin
-* **Databases:** MySQL
-* **Tools & Environment:** VS Code, Android Studio, Git, GitHub
+- 🔭 **Currently focusing on:** Modern Android Apps (Kotlin) & Secure Web Platforms.
+- 🌱 **Actively exploring:** Penetration Testing, Artificial Intelligence, & Data Analysis.
+- 💡 **Philosophy:** Menggabungkan *Human-Computer Interaction (HCI)* dengan arsitektur sistem yang bersih dan aman.
+- 🤝 **Open for:** Collaboration, research projects, and tech initiatives for social impact.
 
----
-
-## 📬 Let's Connect!
-
-Berada di **📍 Pekalongan, Indonesia** dan selalu terbuka untuk kolaborasi, riset, maupun inisiatif teknologi lainnya.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosilman000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farrosilman/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farros.go.id/)
-
----
-
-## 📊 GitHub Analytics
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <br><br>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 🏆 Highlight Project
+
+> **SiTaSiBeSar (Sistem Informasi Tata Laksana Stunting)**
+> 
+> Platform berbasis web yang dirancang untuk mendukung digitalisasi manajemen data kesehatan terkait stunting. Sistem ini dikembangkan menggunakan pendekatan **Human Computer Interaction (HCI)** dan divalidasi dengan **Technology Acceptance Model (TAM)** untuk menjamin efektivitas dan kenyamanan pengguna akhir.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
   <a href="https://github.com/FarrosIlman">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarrosIlman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FarrosIlman&layout=compact&theme=algolia"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarrosIlman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FarrosIlman&layout=compact&theme=algolia" width="48%" />
   </a>
 </p>
