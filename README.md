@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="https://farrosilman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:rosilman000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/farrosilman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/who.fars/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/farros.go.id/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
@@ -39,9 +40,9 @@
 
 ### 🏆 Highlight Project
 
-> **SiTaSiBeSar (Sistem Informasi Tata Laksana Stunting)**
+> **Hoss-Pass**
 > 
-> Platform berbasis web yang dirancang untuk mendukung digitalisasi manajemen data kesehatan terkait stunting. Sistem ini dikembangkan menggunakan pendekatan **Human Computer Interaction (HCI)** dan divalidasi dengan **Technology Acceptance Model (TAM)** untuk menjamin efektivitas dan kenyamanan pengguna akhir.
+> [Tuliskan 1-2 kalimat deskripsi singkat tentang apa itu Hoss-Pass, fitur unggulannya, dan teknologi yang digunakan di sini]
 
 ---
 
