@@ -1,17 +1,18 @@
-<h1 align="center">Hi there, I'm Farros Ilman! 👋</h1>
+<div align="center">
+  <h1>Hi there, I'm Farros Ilman! 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Web+%26+Android+Developer;Cybersecurity+Enthusiast;Tech+for+Social+Impact" alt="Typing SVG" />
 
-<h3 align="center">Web & Android Developer | Cybersecurity Enthusiast | Tech for Social Impact</h3>
+  <br><br>
 
-<p align="center">
-  <i>Lulusan <b>S1 Informatika</b>. Saya memiliki passion membangun aplikasi yang aman, efisien, dan user-centric. Saya percaya teknologi harus inovatif, relevan, dan memberikan dampak nyata bagi masyarakat.</i>
-</p>
+  <p><i>Lulusan <b>S1 Informatika</b>. Saya memiliki passion membangun aplikasi yang aman, efisien, dan user-centric. Saya percaya teknologi harus inovatif, relevan, dan memberikan dampak nyata bagi masyarakat.</i></p>
 
-<p align="center">
-  <a href="https://farrosilman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:rosilman000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/farrosilman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/who.fars/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+  <p>
+    <a href="https://farrosilman.my.id/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:rosilman000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/farrosilman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/who.fars/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
+</div>
 
 ---
 
@@ -22,21 +23,18 @@
 - 💡 **Philosophy:** Menggabungkan *Human-Computer Interaction (HCI)* dengan arsitektur sistem yang bersih dan aman.
 - 🤝 **Open for:** Collaboration, research projects, and tech initiatives for social impact.
 
+<br>
+
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <br><br>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<div align="center">
+  <!-- Skill Icons memberikan tampilan yang jauh lebih bersih dan modern bergaya Apple/Glassmorphism -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,kotlin,mysql,androidstudio,vscode,git" alt="My Skills" />
+  </a>
+</div>
+
+<br>
 
 ### 🏆 Highlight Project
 
@@ -44,13 +42,35 @@
 > 
 > Sistem otomasi presensi biometrik untuk SMA Negeri 4 Pekalongan menggunakan teknologi **Face Recognition** dan **Geofencing** secara *real-time*.
 
----
+<br>
 
 ### 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FarrosIlman&label=Profile%20Views&color=0078D4&style=flat-square" alt="Profile Views" />
+</div>
+<br>
+
 <p align="center">
   <a href="https://github.com/FarrosIlman">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarrosIlman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="48%" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FarrosIlman&layout=compact&theme=algolia" width="48%" />
+    <!-- Menggunakan server delapan-theta yang lebih stabil dengan tema transparan -->
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarrosIlman&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FarrosIlman&layout=compact&theme=transparent&hide_border=true&title_color=0078D4" width="48%" alt="Top Languages" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/FarrosIlman">
+    <img src="https://streak-stats.demolab.com/?user=FarrosIlman&theme=transparent&hide_border=true&title_color=0078D4" width="97%" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3>☕ Support My Work</h3>
+  <p>Jika karya atau proyek open-source saya bermanfaat untuk Anda, pertimbangkan untuk mentraktir saya secangkir kopi!</p>
+  <a href="https://buymeacoffee.com/far.s">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
+  </a>
+</div>
