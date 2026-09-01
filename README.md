@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Farros Ilman! 👋</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Web+%26+Android+Developer;Cybersecurity+Enthusiast;Tech+for+Social+Impact" alt="Typing SVG" />
 
-  <br><br>
+  <br>
 
   <p><i>Lulusan <b>S1 Informatika</b>. Saya memiliki passion membangun aplikasi yang aman, efisien, dan user-centric. Saya percaya teknologi harus inovatif, relevan, dan memberikan dampak nyata bagi masyarakat.</i></p>
 
